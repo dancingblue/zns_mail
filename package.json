@@ -1,0 +1,33 @@
+{
+  "name": "zns_mail",
+  "description": "A node.js based mail client. It is written in JavaScript, does not require compiling.\n完全基于node.js的邮件客户端。由JavaScript写成，不需要编译。",
+  "version": "0.0.3",
+  "license": "MIT",
+  "author": {
+    "name": "Dancing Blue",
+    "email": "blue@zhinengshe.com",
+    "url": "http://www.zhinengshe.com/"
+  },
+  "contributors": [],
+  "homepage": "https://github.com/dancingblue/zns_mail",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dancingblue/zns_mail"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 0.8"
+  },
+  "scripts": {
+    "test": "node demo/demo.js"
+  },
+  "readme": "完全基于node.js的邮件客户端。由JavaScript写成，不需要编译。如有任何问题，欢迎发送邮件讨论(blue@zhinengshe.com)。\nA node.js based mail client. It is written in JavaScript, does not require compiling. If you have any question, send mail to me(blue@zhinengshe.com).\n\n使用方法，请查看demo/demo.js\nfor usage, shown in demo/demo.js",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/dancingblue/zns_mail/issues"
+  },
+  "_id": "zns_mail@0.0.3",
+  "_from": "zns_mail@",
+  "_shasum": "d2f41857091615e81620b421abc630e3e177341f"
+}
